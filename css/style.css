@@ -1,0 +1,39 @@
+body{
+	background:#B8D9E2  ;
+}
+
+.nav-wrapper,.page-footer{
+	background:#E8D31D;
+}
+
+img{
+	height: 350px;
+	width: 530px;
+}
+
+.tenor-gif-embed {
+	height: 350px;
+	width: 530px;
+}
+
+h1{
+	color: #4DB3CE ;
+}
+
+
+.main_body {
+
+text-align: center ;
+	color: #4C546D  ;
+	font-size:  18pt;
+}
+
+h4	{
+	text-align: center ;
+	color: #4C546D  ;
+}
+
+h5 {
+	text-align: center ;
+	color: #4C546D  ;
+}
